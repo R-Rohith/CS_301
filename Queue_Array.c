@@ -1,5 +1,5 @@
 #include<stdio.h>
-int head_q=0,tail_q=0;
+int head_q=-1,tail_q=0;
 int main()
 {
 	void add_q(int[]);
